@@ -1,0 +1,2 @@
+# WebBot
+Simple Website Bot
